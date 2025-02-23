@@ -18,7 +18,7 @@ Ethio ChatGPT is an advanced AI-powered chatbot that **reads and writes in Amhar
 ## 📌 Future Enhancements  
 🔹 **Better AI prompts** for more accurate responses  
 🔹 **Fine-tuned ai model** for Amharic & Oromo  
-🔹 **To Teach people** for people to teach language all of the world
+🔹 **To Teach people** for people to teach language Amharic and Oromic speakers and also all of the world
 🔹  **Custom chatbot personalities** for different use cases  
 
 ## 🚀 Getting Started  
